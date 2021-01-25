@@ -3,12 +3,38 @@
   {
 
      "id":1,
-     "title":"Bem-vindo ao App!",
-     "body":"Este aplicativo tem o intuito de ajudar você a fixar o conhecimento sobre o uso de preposições na lingua inglêsa.",
-     "date":"12/01/2021",
-     "link":""
-  }
-  
+     "title":"Welcome to the App!",
+     "body":"This application is intended to help you establish knowledge about the use of prepositions in the English language.",
+     "date":"22/01/2021",
+     "link":"",
+	 "intl":"en"
+  },
+  {
 
-  
+     "id":1,
+     "title":"¡Bienvenido a la aplicación!",
+     "body":"Esta aplicación está destinada a ayudarlo a establecer conocimientos sobre el uso de preposiciones en el idioma inglés.",
+     "date":"22/01/2021",
+     "link":"",
+	 "intl":"es"
+  },
+  {
+
+     "id":1,
+     "title":"BBienvenue sur l'App!",
+     "body":"Cette application est destinée à vous aider à acquérir des connaissances sur l'utilisation des prépositions en anglais.",
+     "date":"12/01/2021",
+     "link":"",
+	 "intl":"fr"
+  },
+  {
+
+     "id":1,
+     "title":"Bem-vindo ao App!",
+     "body":"Este aplicativo tem o intuito de ajudar você a fixar o conhecimento sobre o uso de preposições na língua inglesa.",
+     "date":"12/01/2021",
+     "link":"",
+	 "intl":"pt"
+  }
+
 ]
